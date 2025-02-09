@@ -29,3 +29,13 @@ Back-end:
 - Spring Boot
 - MongoDB
 
+### Webapp:
+
+> https://github.com/vizucar/vizucar.com/tree/main/apps/web
+
+Front-end:
+
+- React
+- Next.js
+- Typescript
+- Tailwind CSS
