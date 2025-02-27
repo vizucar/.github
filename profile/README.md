@@ -4,8 +4,9 @@
 
 # Description du projet
 
-L'application Vizucar est une application de bureau windows et linux permettant de chercher des images de voiture et elle peut être téléchargée sur notre site.
+L'application Vizucar est une application de bureau windows et linux permettant de chercher des images de voiture sur plus de 140 marques de voitures.
 
+L'application est disponible sur notre site.
 > vizucar.com
 
 ## Stack technique
