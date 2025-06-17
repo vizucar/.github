@@ -11,32 +11,4 @@ L'application est disponible sur notre site.
 
 ## Stack technique
 
-### Desktop app:
-
-> https://github.com/vizucar/vizucar.com/tree/main/apps/desktop
-
-Front-end:
-
-- Electron.js
-- React
-- Typescript
-- CSS
-
-Back-end:
-
-> https://github.com/vizucar/vizucar-api
-
-- Java 17
-- Spring Boot
-- MongoDB
-
-### Webapp:
-
-> https://github.com/vizucar/vizucar.com/tree/main/apps/web
-
-Front-end:
-
-- React
-- Next.js
-- Typescript
-- Tailwind CSS
+![image](https://github.com/user-attachments/assets/c92e989a-2dc4-4310-b711-538d63e1daa2)
